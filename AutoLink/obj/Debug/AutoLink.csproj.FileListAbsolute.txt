@@ -54,3 +54,17 @@ E:\Code\AutoLink(3)\AutoLink\AutoLink\obj\Debug\AutoLink.csproj.CoreCompileInput
 E:\Code\AutoLink(3)\AutoLink\AutoLink\obj\Debug\AutoLink.csproj.CopyComplete
 E:\Code\AutoLink(3)\AutoLink\AutoLink\obj\Debug\AutoLink.exe
 E:\Code\AutoLink(3)\AutoLink\AutoLink\obj\Debug\AutoLink.pdb
+E:\Code\AutoLink\AutoLink\bin\Debug\MySql.Data.dll
+E:\Code\AutoLink\AutoLink\bin\Debug\Google.Protobuf.dll
+E:\Code\AutoLink\AutoLink\bin\Debug\Zstandard.Net.dll
+E:\Code\AutoLink\AutoLink\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Code\AutoLink\AutoLink\bin\Debug\BouncyCastle.Crypto.dll
+E:\Code\AutoLink\AutoLink\bin\Debug\Ubiety.Dns.Core.dll
+E:\Code\AutoLink\AutoLink\bin\Debug\System.Memory.dll
+E:\Code\AutoLink\AutoLink\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Code\AutoLink\AutoLink\bin\Debug\System.Buffers.dll
+E:\Code\AutoLink\AutoLink\bin\Debug\K4os.Compression.LZ4.dll
+E:\Code\AutoLink\AutoLink\bin\Debug\K4os.Hash.xxHash.dll
+E:\Code\AutoLink\AutoLink\bin\Debug\MySql.Data.xml
+E:\Code\AutoLink\AutoLink\obj\Debug\AutoLink.exe.config
+E:\Code\AutoLink\AutoLink\obj\Debug\AutoLink.csproj.CopyComplete

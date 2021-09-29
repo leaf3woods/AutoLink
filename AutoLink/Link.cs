@@ -88,7 +88,7 @@ public partial class Link : Form
                     int nLinkState = mySqlCon.UpdateDatabase("world", "127.0.0.1", "yes", "YeSen@1233", strSqlCmd);
                     if (nLinkState != -1)
                     {
-                        string strTemp = string.Format("连接正常,修改的最后一行为{0}", nLinkState);
+                        string strTemp = string.Format("连接正常,共修改{0}行", nLinkState);
                         MessageBox.Show(strTemp);
                     }
                     else
